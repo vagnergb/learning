@@ -1,2 +1,2 @@
 # learning
-My learning subjects
+Udemy course: https://www.udemy.com/machine-learning-e-data-science-com-python/
