@@ -1,2 +1,2 @@
 # learning
-Learning subjects
+My learning subjects
